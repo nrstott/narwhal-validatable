@@ -1,0 +1,10 @@
+{
+    "name": "validatable",
+    "description": "A model validation framework",
+    "keywords": ["model", "framework", "validation"],
+    "author": "Nathan Stott",
+    "email": "nathan.stott@whiteboard-it.com",
+    "dependencies": [],
+    "lib": "lib"
+}
+
